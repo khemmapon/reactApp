@@ -1,35 +1,34 @@
-body, html {
-  padding:0px;
-  margin:0px;
+body,
+html {
+  padding: 0px;
+  margin: 0px;
   font-family: sans-serif;
 }
-.amber{
-  color: #ffc107;
+
+.violet {
+  color: #9400d3;
 }
 
-.blue{
-  color: #64b5f6;
+.indigo {
+  color: #4b0082;
 }
 
-.deepOrange{
-  color: #ff5722;
+.blue {
+  color: #0000ff;
 }
 
-.green{
-  color: #4caf50;
+.green {
+  color: #00ff00;
 }
 
-.grey{
-  color: #eeeeee;
+.yellow {
+  color: #ffff00;
 }
 
-.lime{
-  color: #cddc39;
-}
-.pink{
-  color: #e91e63;
+.orange {
+  color: #ff7f00;
 }
 
-.yellow{
-  color: #ffeb3b;
+.red {
+  color: #ff0000;
 }
